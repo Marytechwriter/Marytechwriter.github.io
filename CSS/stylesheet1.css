@@ -5,9 +5,11 @@ body {
 h1 {
   color: white;
   text-align: center;
+  font-family: verdana;
+  font-size: 20px;
 }
 
 p {
   font-family: verdana;
-  font-size: 20px;
+  font-size: 14px;
 }

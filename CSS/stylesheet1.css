@@ -1,6 +1,6 @@
 
 // Settings for smaller screens
-@media (max-width: 640px) {
+@media (max-width: 800px) {
 h1 {font-size: 60px}
 p {font-size: 40px}
 }

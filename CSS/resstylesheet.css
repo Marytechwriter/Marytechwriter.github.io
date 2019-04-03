@@ -1,0 +1,34 @@
+div {
+  border: 15px solid white;
+  padding: 10px;
+  margin: 15px;
+}
+
+body {
+  background-color: white;
+  font-family: verdana;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-family: verdana;
+  font-size: 40px;
+}
+
+h2 {
+  color: black;
+  text-align: left;
+  font-family: verdana;
+  font-size: 20px;
+}
+ h3 {
+  color: black;
+  text-align: left;
+  font-family: verdana;
+  font-size: 20px;
+}
+p {
+  font-family: verdana;
+  font-size: 14px;
+}

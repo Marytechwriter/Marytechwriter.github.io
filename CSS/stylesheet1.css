@@ -1,10 +1,5 @@
 
-/* Responsive layout - makes the menu and the content (inside the section) sit on top of each other instead of next to each other */
-@media (max-width: 600px) {
-  section {
-    -webkit-flex-direction: column;
-    flex-direction: column;
-  }
+
 div {
   border: 5px solid YellowGreen;
   padding: 10px;

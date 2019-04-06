@@ -19,21 +19,9 @@ Equals
   '''this is code of some sort.
 use 3 ticks before and after to make a codeblock. This did not work!! I'm going to have to do the github course on Markdown.
 '''html
-<html lang="en">
-<head>
-  <title>Marys Portfolio</title>
-  <link rel="stylesheet" type="text/css" href="/CSS/stylesheet1.css">
-</head>
-<header>
-<link rel="stylesheet" type="text/css" href="/CSS/stylesheet1.css">
-</header>
-<h1>Marys Portfolio</h1>
-</header>
-<body>
-<p>I am an Engineer Technical Writer and Instructional Designer
-</html>'''
 
-Inward angle bracket makes a code block:
+
+Inward angle bracket makes a quote block:
 >I don't know why the markdown here does not render out as code. A tab should do it or tick.
 I am using Git Atom and this is a somewhat different version of markdown.
 

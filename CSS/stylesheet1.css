@@ -1,15 +1,10 @@
-div.first {
+div {
 
   padding: 10px;
   margin: 15px;
-  float: left;
-}
-div.second {
 
-  padding: 10px;
-  margin: 15px;
-  float: right;
 }
+
 nav {
   border: 5px solid YellowGreen;
   padding: 10px;

@@ -1,7 +1,7 @@
 
 
 div {
-  padding: 10px;
+  padding: 2px 10px;
   margin: 15px;
   width: 480px;
   display: inline-block;
@@ -9,8 +9,8 @@ div {
 
 nav {
   border: 5px solid YellowGreen;
-  padding: 10px;
-  margin: 15px;
+  padding: 2px;
+  margin: 10px;
 }
 
 body {

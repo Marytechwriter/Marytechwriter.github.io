@@ -12,6 +12,7 @@ Strike through is done with 2 tildes on either side in github flavor markdown.
 ~~looks like this~~
 
 You can make headings by putting dashes and equals marks on the line below some text.
+
 Dashes
 -----
 Equals

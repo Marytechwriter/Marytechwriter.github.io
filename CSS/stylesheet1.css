@@ -26,6 +26,10 @@ h2 {
   font-family: verdana;
   font-size: 20px;
 }
+h2 .linkdtitle {
+  text-align: center;
+  font-family: verdana;
+}
 
 p {
   font-family: verdana;

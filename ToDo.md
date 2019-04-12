@@ -1,6 +1,6 @@
 
 # Markdown
-These are exercise bits from Markdown course. I am using Atom text editor. Not all the Markdown is working in this environment.
+These are exercise bits from Markdown course. I am using Atom text editor. Not all the Markdown from the course is working or working as expected in this git environment. I have the [Git] (https://lab.github.com/githubtraining/communicating-using-markdown) booked marked on my to do list.
 ### Unordered List using asterisks
 * Learning '\<html\>' by hand. 
   * Mobile 1st Flex & Float

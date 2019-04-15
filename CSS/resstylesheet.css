@@ -31,6 +31,28 @@ h2 {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
 }
+/* Create two unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+.left {
+  width: 25%;
+}
+
+.right {
+  width: 75%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 p {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;

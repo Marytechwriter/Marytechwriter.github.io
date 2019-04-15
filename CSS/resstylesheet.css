@@ -66,3 +66,8 @@ p.dates {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 10px;
 }
+p.co {
+  font-color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}

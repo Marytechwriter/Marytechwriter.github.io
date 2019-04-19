@@ -1297,7 +1297,7 @@
       <links>
         <slidelink slideid="_player.5u8xrQQn3aD" displaytext="Electricity Basics" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5u8xrQQn3aD.5udbKCCSTr9" displaytext="Basic Electronics Course" expand="false" type="slide" />
+            <slidelink slideid="_player.5u8xrQQn3aD.5udbKCCSTr9" displaytext="EE 101 Basic Electronics Course" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.6IABM0xQTJH" displaytext="About This Course" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.5v936PQT3YJ" displaytext="Basic Electricity" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.67j5DrTkN8n" displaytext="Free Electrons" expand="false" type="slide" />
@@ -1308,14 +1308,17 @@
             <slidelink slideid="_player.5u8xrQQn3aD.6LIFxFgbIQh" displaytext="The Power of Powers of 10" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.69oAnOQzLML" displaytext="Basic Math – Powers of 10" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.5pzTHcSreIS" displaytext="Practice Quiz Time" expand="false" type="slide" />
+            <slidelink slideid="_player.5u8xrQQn3aD.6gHEgVG68tL" displaytext="When an atom has an electron in its outer most shell than can be removed from its parent electron to another atom it is called a free electron." expand="false" type="slide" />
+            <slidelink slideid="_player.5u8xrQQn3aD.5XYCzjhxHl0" displaytext="Ten Mega units is equal to: " expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6GzniEw0WOe" displaytext="Ohms Law" expand="true" type="slide">
           <links>
+            <slidelink slideid="_player.6GzniEw0WOe.6ao6URchUYS" displaytext="Ohms Law" expand="false" type="slide" />
+            <slidelink slideid="_player.6GzniEw0WOe.5mSJQttO06t" displaytext="Ohms Law Equations" expand="false" type="slide" />
             <slidelink slideid="_player.6GzniEw0WOe.6IFo6yQtWWM" displaytext="Voltage " expand="false" type="slide" />
             <slidelink slideid="_player.6GzniEw0WOe.5uXn5Fa4Ire" displaytext="Current" expand="false" type="slide" />
             <slidelink slideid="_player.6GzniEw0WOe.6KVD6ZUq4cD" displaytext="Resistance" expand="false" type="slide" />
-            <slidelink slideid="_player.6GzniEw0WOe.65QKui7dYsK" displaytext="Ohms Law" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6hRx0PQ1PSY" displaytext="Series Circuits" expand="true" type="slide">
@@ -1335,9 +1338,14 @@
   <transcript_data />
   <glossary_data>
     <terms>
-      <term title="Coulumb">Unit of charge.</term>
-      <term title="Ohm Ω">Unit of resistance</term>
-      <term title="Volt">Electrical Potential</term>
+      <term title="ampere A">unit of current</term>
+      <term title="coulumb C">unit of charge.</term>
+      <term title="current">flow of electons</term>
+      <term title="hertz Hz">unit of frequency</term>
+      <term title="joule J">unit of energy</term>
+      <term title="ohm Ω">unit of resistance</term>
+      <term title="volt V">electrical potential</term>
+      <term title="watt W">unit of power</term>
     </terms>
   </glossary_data>
 </bwFrame>

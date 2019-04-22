@@ -45,6 +45,10 @@ ul {
 footer {
 background-color: white;
 }
+.clearfix {
+  overflow: auto;
+}
+
 .right {
   float: right;
   padding: 10px;

@@ -45,3 +45,8 @@ ul {
 footer {
 background-color: white;
 }
+.right {
+  float: right;
+  padding: 10px;
+  font-family: verdana;
+}

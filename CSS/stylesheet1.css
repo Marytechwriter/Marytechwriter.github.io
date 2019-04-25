@@ -37,11 +37,11 @@ h2 {
 h2.linkdtitle {
   text-align: center;
   font-size: 18px;
-  font-family: verdana;
+  font-family: Arial, Helvetica, sans-serif, verdana;
 }
 
 p {
-  font-family: verdana;
+  font-family: Arial, Helvetica, sans-serif, verdana;
   font-size: 16px;
   padding: 14px;
 }

@@ -1282,6 +1282,10 @@
             <slidelink slideid="_player.5u8xrQQn3aD.5ZSEht4mHW8" displaytext="Current and Charge" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.5jyrr3UVKtx" displaytext="Voltage" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.5YAiu5QIXis" displaytext="Resistance" expand="false" type="slide" />
+            <slidelink slideid="_player.5u8xrQQn3aD.5jGzT10e8UD" displaytext="Resistivity" expand="false" type="slide" />
+            <slidelink slideid="_player.5u8xrQQn3aD.6W7mbA6SVis" displaytext="Resistivity Calculations" expand="false" type="slide" />
+            <slidelink slideid="_player.5u8xrQQn3aD.5zyXm2hbEdF" displaytext="Resistivity of Materials" expand="false" type="slide" />
+            <slidelink slideid="_player.5u8xrQQn3aD.5c4A5rQaUSL" displaytext="Resistance and Conductors" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.604piO8kOur" displaytext="Scientific vs Engineering Notation" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.5bXQLQKD6Xn" displaytext="Engineering Notation" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.6XHxpKf0qZ2" displaytext="Engineering Notation Units" expand="false" type="slide" />
@@ -1316,7 +1320,7 @@
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Orbitron' style='font-size: 11px;' size='11' color='#B4B4B4'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/Capture1.PNG" image="story_content/6e0m6f2Ywt8.png" title="Unit Prefixes" />
+      <resource url="story_content/external_files/Capture1.PNG" image="story_content/6dQFjTmaB9c.png" title="Unit Prefixes" />
     </resources>
   </resource_data>
   <transcript_data />

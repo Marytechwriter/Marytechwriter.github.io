@@ -68,7 +68,7 @@ p.description {
   font-size: 18px;
 }
 p.description:hover + span {
-
+display: in-line
 }
 p.dates {
   font-color: gray;

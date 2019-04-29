@@ -55,7 +55,7 @@ h2 {
   display: table;
   clear: both;
 }
-span.more {
+.more {
   display: none
 }
 

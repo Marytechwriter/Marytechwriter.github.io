@@ -68,7 +68,7 @@ p.description {
   font-size: 18px;
 }
 p.description:hover + span {
-  display: block;
+
 }
 p.dates {
   font-color: gray;

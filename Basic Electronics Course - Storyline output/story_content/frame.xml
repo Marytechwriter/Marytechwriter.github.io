@@ -1285,6 +1285,7 @@
             <slidelink slideid="_player.5u8xrQQn3aD.5jGzT10e8UD" displaytext="Resistivity" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.6W7mbA6SVis" displaytext="Resistivity Calculations" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.5zyXm2hbEdF" displaytext="Resistivity of Materials" expand="false" type="slide" />
+            <slidelink slideid="_player.5u8xrQQn3aD.5cdDjdz2vbq" displaytext="Resistivity Calculations" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.5c4A5rQaUSL" displaytext="Resistance and Conductors" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.604piO8kOur" displaytext="Scientific vs Engineering Notation" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.5bXQLQKD6Xn" displaytext="Engineering Notation" expand="false" type="slide" />
@@ -1298,9 +1299,10 @@
             <slidelink slideid="_player.5u8xrQQn3aD.67HzdnIQdNH" displaytext="Match Unit Prefixes to Numerical Value" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.6gHEgVG68tL" displaytext="When an atom has an electron in its outer most shell than can be removed from its parent electron to another atom it is called a free electron." expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.5XYCzjhxHl0" displaytext="Ten Mega units is equal to: " expand="false" type="slide" />
-            <slidelink slideid="_player.5u8xrQQn3aD.5ebUWSqmlBL" displaytext="What is this number?" expand="false" type="slide" />
+            <slidelink slideid="_player.5u8xrQQn3aD.5fABbPgKWgg" displaytext="What is this number? " expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.5vJg1Wwmbc4" displaytext="Select all numbers that are of the same value as this number written in scientific notation: " expand="false" type="slide" />
-            <slidelink slideid="_player.5u8xrQQn3aD.6fY6UeQy6wg" displaytext="Match the following " expand="false" type="slide" />
+            <slidelink slideid="_player.5u8xrQQn3aD.6fY6UeQy6wg" displaytext="Match the following:" expand="false" type="slide" />
+            <slidelink slideid="_player.5u8xrQQn3aD.6TtE2Vl9S4o" displaytext="A constant property of a material that along with length and width which determines an objects resistance.  " expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6GzniEw0WOe" displaytext="Ohms Law" expand="true" type="slide">
@@ -1313,18 +1315,13 @@
             <slidelink slideid="_player.6GzniEw0WOe.6KVD6ZUq4cD" displaytext="Resistance" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="" displaytext="Series Circuits" expand="true" type="slide" />
-        <slidelink slideid="_player.5yHeQEhVR8v" displaytext="Parallel Circuits" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.5yHeQEhVR8v.5ZhI7KzbVm8" displaytext="Untitled Slide" expand="false" type="slide" />
-          </links>
-        </slidelink>
+        <slidelink slideid="" displaytext="Power" expand="true" type="slide" />
       </links>
     </outline>
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Orbitron' style='font-size: 11px;' size='11' color='#B4B4B4'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/Capture1.PNG" image="story_content/5wAbAtpGUR5.png" title="Unit Prefixes" />
+      <resource url="story_content/external_files/Capture1.PNG" image="story_content/6jWPRlhajXI.png" title="Unit Prefixes" />
     </resources>
   </resource_data>
   <transcript_data />

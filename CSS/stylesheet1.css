@@ -1,14 +1,14 @@
 /*
 .flex-container {
   display: flex;
-  flex-wrap: nowrap;
- 
+  flex-wrap: nowrap;}
+ */
 .flex-container > div {
   width: 420px;
   margin: 4px;
   text-align: left;
 }
-*/
+
 
 html{font-size:100%;} 
 @media(min-width:60em){html{font-size: 100%}}

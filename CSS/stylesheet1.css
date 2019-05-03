@@ -27,7 +27,9 @@ div.but {
   margin: 4px;
   border-style: outset;
   border-color: #00ffcc;
-  border-width: 5px;}
+  border-width: 5px;
+  text-align: center;
+}
 
 body {
   background-color:#e6fff5;

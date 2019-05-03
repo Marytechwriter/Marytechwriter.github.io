@@ -21,6 +21,12 @@ div {
   border-color: #00ffcc;
   border-width: 4px;
 }
+div.but {
+  padding: 2px 1px;
+  margin: 4px;
+  border-style: outset;
+  border-color: #00ffcc;
+  border-width: 5px;}
 
 body {
   background-color:#e6fff5;

@@ -30,6 +30,9 @@ div.but {
   border-width: 5px;
   text-align: center;
 }
+a:but {
+  text-decoration: none;
+}
 
 body {
   background-color:#e6fff5;

@@ -28,18 +28,21 @@ div{
 }
 div.piclink{
   display: inline-block;
-  width:26%;
+  width:22%;
   padding: 2px 10px;
   margin: 4px;
   border-color: blue;
   border-width: 4px;
+  display: inline-block;
 }
 div.text{
   padding: 2px 10px;
   margin: 4px;
   border-color: transparent;
   border-width: 2px;
-  display: inline-block;}
+  width:72%;
+  display: inline-block;
+}
   
 div.but {
   width: 46px;

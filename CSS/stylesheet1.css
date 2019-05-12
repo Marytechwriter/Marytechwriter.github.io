@@ -31,8 +31,9 @@ div.piclink{
   width:20%;
   padding: 2px 10px;
   margin: 4px;
-  border-color: #00ff00;
-  border-width: 4px;
+  border-style: solid ;
+  border-color: #b3e6cc;
+  border-width: 2px;
   display: inline-block;
 }
 div.text{

@@ -1273,8 +1273,13 @@
       <links>
         <slidelink slideid="_player.5u8xrQQn3aD" displaytext="Electricity Basics" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5u8xrQQn3aD.5udbKCCSTr9" displaytext="EE 101 Basic Electronics Course" expand="false" type="slide" />
+            <slidelink slideid="_player.5u8xrQQn3aD.5udbKCCSTr9" displaytext="101 Basic Electronics Course" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.6IABM0xQTJH" displaytext="About This Course" expand="false" type="slide" />
+            <slidelink slideid="_player.5u8xrQQn3aD.604piO8kOur" displaytext="Scientific vs Engineering Notation" expand="false" type="slide" />
+            <slidelink slideid="_player.5u8xrQQn3aD.6NXT9JepZT1" displaytext="Engineering Notation" expand="false" type="slide" />
+            <slidelink slideid="_player.5u8xrQQn3aD.6XHxpKf0qZ2" displaytext="Engineering Notation Units" expand="false" type="slide" />
+            <slidelink slideid="_player.5u8xrQQn3aD.6LIFxFgbIQh" displaytext="The Power of Powers of 10" expand="false" type="slide" />
+            <slidelink slideid="_player.5u8xrQQn3aD.69oAnOQzLML" displaytext="Basic Math – Powers of 10" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.5v936PQT3YJ" displaytext="Basic Electricity" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.67j5DrTkN8n" displaytext="Free Electrons" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.5XASUEOvqQo" displaytext="Charge of an Electron" expand="false" type="slide" />
@@ -1283,44 +1288,33 @@
             <slidelink slideid="_player.5u8xrQQn3aD.5jyrr3UVKtx" displaytext="Voltage" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.5YAiu5QIXis" displaytext="Resistance" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.5jGzT10e8UD" displaytext="Resistivity" expand="false" type="slide" />
-            <slidelink slideid="_player.5u8xrQQn3aD.6W7mbA6SVis" displaytext="Resistivity Calculations" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.5zyXm2hbEdF" displaytext="Resistivity of Materials" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.5c4A5rQaUSL" displaytext="Resistance and Conductors" expand="false" type="slide" />
-            <slidelink slideid="_player.5u8xrQQn3aD.604piO8kOur" displaytext="Scientific vs Engineering Notation" expand="false" type="slide" />
-            <slidelink slideid="_player.5u8xrQQn3aD.5bXQLQKD6Xn" displaytext="Engineering Notation" expand="false" type="slide" />
-            <slidelink slideid="_player.5u8xrQQn3aD.6XHxpKf0qZ2" displaytext="Engineering Notation Units" expand="false" type="slide" />
-            <slidelink slideid="_player.5u8xrQQn3aD.6LIFxFgbIQh" displaytext="The Power of Powers of 10" expand="false" type="slide" />
-            <slidelink slideid="_player.5u8xrQQn3aD.69oAnOQzLML" displaytext="Basic Math – Powers of 10" expand="false" type="slide" />
+            <slidelink slideid="_player.5u8xrQQn3aD.5cdDjdz2vbq" displaytext="Resistivity Calculations" expand="false" type="slide" />
+            <slidelink slideid="_player.5u8xrQQn3aD.6W7mbA6SVis" displaytext="Resistivity Calculations" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.5pzTHcSreIS" displaytext="Practice Quiz Time" expand="false" type="slide" />
-            <slidelink slideid="_player.5u8xrQQn3aD.6gHEgVG68tL" displaytext="When an atom has an electron in its outer most shell than can be removed from its parent electron to another atom it is called a free electron." expand="false" type="slide" />
-            <slidelink slideid="_player.5u8xrQQn3aD.6TZEFrMhaY1" displaytext="Drag and Drop" expand="false" type="slide" />
-            <slidelink slideid="_player.5u8xrQQn3aD.5XYCzjhxHl0" displaytext="Ten Mega units is equal to: " expand="false" type="slide" />
-            <slidelink slideid="_player.5u8xrQQn3aD.5ebUWSqmlBL" displaytext="What is the correct " expand="false" type="slide" />
-            <slidelink slideid="_player.5u8xrQQn3aD.5vJg1Wwmbc4" displaytext="Select all numbers that are of the same value as this number written in scientific notation: " expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6GzniEw0WOe" displaytext="Ohms Law" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6GzniEw0WOe.6ao6URchUYS" displaytext="Ohms Law" expand="false" type="slide" />
+            <slidelink slideid="_player.6GzniEw0WOe.5q43eVSA3J1" displaytext="Circuit Analysis using Ohms Law" expand="false" type="slide" />
             <slidelink slideid="_player.6GzniEw0WOe.5mSJQttO06t" displaytext="Ohms Law Equations" expand="false" type="slide" />
-            <slidelink slideid="_player.6GzniEw0WOe.6VE0DRzdBEP" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6GzniEw0WOe.6IFo6yQtWWM" displaytext="Voltage " expand="false" type="slide" />
+            <slidelink slideid="_player.6GzniEw0WOe.6RCnWf31IOe" displaytext="Resistance" expand="false" type="slide" />
+            <slidelink slideid="_player.6GzniEw0WOe.6jND51hGdQM" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6GzniEw0WOe.5uXn5Fa4Ire" displaytext="Current" expand="false" type="slide" />
-            <slidelink slideid="_player.6GzniEw0WOe.6KVD6ZUq4cD" displaytext="Resistance" expand="false" type="slide" />
+            <slidelink slideid="_player.6GzniEw0WOe.5vRxZ7E8C6b" displaytext="Current Source" expand="false" type="slide" />
+            <slidelink slideid="_player.6GzniEw0WOe.6UKJ5tk4gSh" displaytext="Power" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="" displaytext="Series Circuits" expand="true" type="slide" />
-        <slidelink slideid="_player.5yHeQEhVR8v" displaytext="Parallel Circuits" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.5yHeQEhVR8v.5ZhI7KzbVm8" displaytext="Untitled Slide" expand="false" type="slide" />
-          </links>
-        </slidelink>
+        <slidelink slideid="" displaytext="Power" expand="true" type="slide" />
       </links>
     </outline>
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Orbitron' style='font-size: 11px;' size='11' color='#B4B4B4'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/Capture1.PNG" image="story_content/6dQFjTmaB9c.png" title="Unit Prefixes" />
+      <resource url="story_content/external_files/Capture1.PNG" image="story_content/691PjMRHeQe.png" title="Unit Prefixes" />
     </resources>
   </resource_data>
   <transcript_data />

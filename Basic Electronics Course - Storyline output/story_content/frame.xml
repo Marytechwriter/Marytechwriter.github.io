@@ -1281,6 +1281,8 @@
             <slidelink slideid="_player.5u8xrQQn3aD.6LIFxFgbIQh" displaytext="The Power of Powers of 10" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.69oAnOQzLML" displaytext="Basic Math – Powers of 10" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.5iM59I3OUGE" displaytext="Engineering Notation Units" expand="false" type="slide" />
+            <slidelink slideid="_player.5u8xrQQn3aD.61G9UfVeVIM" displaytext="Law of Exponents Div" expand="false" type="slide" />
+            <slidelink slideid="_player.5u8xrQQn3aD.5UyFVitayt6" displaytext="Law of Exponents Mult" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.5v936PQT3YJ" displaytext="Basic Electricity" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.67j5DrTkN8n" displaytext="Free Electrons" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.5XASUEOvqQo" displaytext="Charge of an Electron" expand="false" type="slide" />
@@ -1306,16 +1308,19 @@
             <slidelink slideid="_player.6GzniEw0WOe.6jND51hGdQM" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6GzniEw0WOe.5uXn5Fa4Ire" displaytext="Current" expand="false" type="slide" />
             <slidelink slideid="_player.6GzniEw0WOe.5vRxZ7E8C6b" displaytext="Current Source" expand="false" type="slide" />
-            <slidelink slideid="_player.6GzniEw0WOe.6UKJ5tk4gSh" displaytext="Power" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="" displaytext="Power" expand="true" type="slide" />
+        <slidelink slideid="_player.6hRx0PQ1PSY" displaytext="Power" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6hRx0PQ1PSY.66TpJyZpRp8" displaytext="Power" expand="false" type="slide" />
+          </links>
+        </slidelink>
       </links>
     </outline>
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Orbitron' style='font-size: 11px;' size='11' color='#B4B4B4'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/Capture1.PNG" image="story_content/5mLdUY0l2Da.png" title="Prefixes" />
+      <resource url="story_content/external_files/Capture1.PNG" image="story_content/6XgMjMWxxKB.png" title="Prefixes" />
     </resources>
   </resource_data>
   <transcript_data />

@@ -1312,7 +1312,8 @@
         </slidelink>
         <slidelink slideid="_player.6hRx0PQ1PSY" displaytext="Power" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6hRx0PQ1PSY.66TpJyZpRp8" displaytext="Power" expand="false" type="slide" />
+            <slidelink slideid="_player.6hRx0PQ1PSY.66TpJyZpRp8" displaytext="Power and Energy" expand="false" type="slide" />
+            <slidelink slideid="_player.6hRx0PQ1PSY.6Fj6et17ujv" displaytext="Power and Energy" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
@@ -1320,7 +1321,7 @@
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Orbitron' style='font-size: 11px;' size='11' color='#B4B4B4'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/Capture1.PNG" image="story_content/6XgMjMWxxKB.png" title="Prefixes" />
+      <resource url="story_content/external_files/Capture1.PNG" image="story_content/5avPUhKZ3Hu.png" title="Prefixes" />
     </resources>
   </resource_data>
   <transcript_data />

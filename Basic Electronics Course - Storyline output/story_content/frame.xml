@@ -18,8 +18,8 @@
           </option>
           <option name="logo_enabled" value="true">
             <options>
-              <option name="logo_url" value="story_content\5l1tXy46ceq_DX1024_DY1024.swf" />
-              <option name="html5_logo_url" value="mobile/62v8WwPdbLl.png" />
+              <option name="logo_url" value="story_content\6dThZzxOsDN_DX1024_DY1024.swf" />
+              <option name="html5_logo_url" value="mobile/5VUzXKSZxcp.png" />
             </options>
           </option>
           <option name="sidebar_enabled" value="true">
@@ -1310,8 +1310,8 @@
             <slidelink slideid="_player.6GzniEw0WOe.6IFo6yQtWWM" displaytext="Voltage " expand="false" type="slide" />
             <slidelink slideid="_player.6GzniEw0WOe.5yKg5kGXf8D" displaytext="Calculate the Current " expand="false" type="slide" />
             <slidelink slideid="_player.6GzniEw0WOe.6RCnWf31IOe" displaytext="Resistance" expand="false" type="slide" />
-            <slidelink slideid="_player.6GzniEw0WOe.6jND51hGdQM" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6GzniEw0WOe.6breNyZXKS3" displaytext="A Variable Resistor" expand="false" type="slide" />
+            <slidelink slideid="_player.6GzniEw0WOe.6cDHEgEHmM4" displaytext="Calculate the Voltage" expand="false" type="slide" />
+            <slidelink slideid="_player.6GzniEw0WOe.6breNyZXKS3" displaytext="A Variable Resistor Current vs Resistance" expand="false" type="slide" />
             <slidelink slideid="_player.6GzniEw0WOe.5uXn5Fa4Ire" displaytext="Current" expand="false" type="slide" />
             <slidelink slideid="_player.6GzniEw0WOe.5vRxZ7E8C6b" displaytext="Current Source" expand="false" type="slide" />
           </links>
@@ -1327,7 +1327,7 @@
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Orbitron' style='font-size: 11px;' size='11' color='#B4B4B4'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/Capture1.PNG" image="story_content/5p67bW2Wx91.png" title="Prefixes" />
+      <resource url="story_content/external_files/Capture1.PNG" image="story_content/6pxEPgBzVxm.png" title="prefixes" />
     </resources>
   </resource_data>
   <transcript_data />

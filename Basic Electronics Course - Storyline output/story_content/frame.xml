@@ -19,7 +19,7 @@
           <option name="logo_enabled" value="true">
             <options>
               <option name="logo_url" value="story_content\6dThZzxOsDN_DX1024_DY1024.swf" />
-              <option name="html5_logo_url" value="mobile/5VUzXKSZxcp.png" />
+              <option name="html5_logo_url" value="mobile/6bErhYriOzG.png" />
             </options>
           </option>
           <option name="sidebar_enabled" value="true">
@@ -1299,7 +1299,7 @@
             <slidelink slideid="_player.5u8xrQQn3aD.5c4A5rQaUSL" displaytext="Resistance and Conductors" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.5cdDjdz2vbq" displaytext="Resistivity Calculations" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.6W7mbA6SVis" displaytext="Resistivity Calculations" expand="false" type="slide" />
-            <slidelink slideid="_player.5u8xrQQn3aD.5pzTHcSreIS" displaytext="Practice Quiz Time" expand="false" type="slide" />
+            <slidelink slideid="_player.5u8xrQQn3aD.5er2XCHapWN" displaytext="Practice Quiz Time" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6GzniEw0WOe" displaytext="Ohms Law" expand="true" type="slide">
@@ -1311,6 +1311,9 @@
             <slidelink slideid="_player.6GzniEw0WOe.5yKg5kGXf8D" displaytext="Calculate the Current " expand="false" type="slide" />
             <slidelink slideid="_player.6GzniEw0WOe.6RCnWf31IOe" displaytext="Resistance" expand="false" type="slide" />
             <slidelink slideid="_player.6GzniEw0WOe.6cDHEgEHmM4" displaytext="Calculate the Voltage" expand="false" type="slide" />
+            <slidelink slideid="_player.6GzniEw0WOe.5ojoMwKmfF2" displaytext="Practice Quiz Time" expand="false" type="slide" />
+            <slidelink slideid="_player.6GzniEw0WOe.6E9t32XpRvM" displaytext="Match Units and Values" expand="false" type="slide" />
+            <slidelink slideid="_player.6GzniEw0WOe.5sOjZm5y7WJ" displaytext="Sequence Drop-down" expand="false" type="slide" />
             <slidelink slideid="_player.6GzniEw0WOe.6breNyZXKS3" displaytext="A Variable Resistor Current vs Resistance" expand="false" type="slide" />
             <slidelink slideid="_player.6GzniEw0WOe.5uXn5Fa4Ire" displaytext="Current" expand="false" type="slide" />
             <slidelink slideid="_player.6GzniEw0WOe.5vRxZ7E8C6b" displaytext="Current Source" expand="false" type="slide" />
@@ -1322,12 +1325,19 @@
             <slidelink slideid="_player.6hRx0PQ1PSY.6Fj6et17ujv" displaytext="Power and Energy" expand="false" type="slide" />
           </links>
         </slidelink>
+        <slidelink slideid="_player.65XebJUPeGj" displaytext="Schematic Capture" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.65XebJUPeGj.6kBHeW8gq20" displaytext="Schematic Capture and Simulations" expand="false" type="slide" />
+            <slidelink slideid="_player.65XebJUPeGj.6lgTRSdAF8n" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.65XebJUPeGj.6h8tAt82ZuI" displaytext="Untitled Slide" expand="false" type="slide" />
+          </links>
+        </slidelink>
       </links>
     </outline>
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Orbitron' style='font-size: 11px;' size='11' color='#B4B4B4'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/Capture1.PNG" image="story_content/6pxEPgBzVxm.png" title="prefixes" />
+      <resource url="story_content/external_files/Capture1.PNG" image="story_content/5rZPKcHrbCq.png" title="prefixes" />
     </resources>
   </resource_data>
   <transcript_data />

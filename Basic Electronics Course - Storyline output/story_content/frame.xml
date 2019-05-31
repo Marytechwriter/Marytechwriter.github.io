@@ -19,7 +19,7 @@
           <option name="logo_enabled" value="true">
             <options>
               <option name="logo_url" value="story_content\5h6J3QAIaob_DX1024_DY1024.swf" />
-              <option name="html5_logo_url" value="mobile/67h7hryxzq7.png" />
+              <option name="html5_logo_url" value="mobile/6k4WTTgCowj.png" />
             </options>
           </option>
           <option name="sidebar_enabled" value="true">
@@ -1278,6 +1278,8 @@
           <links>
             <slidelink slideid="_player.5u8xrQQn3aD.5udbKCCSTr9" displaytext="101 Basic Electronics Course" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.6IABM0xQTJH" displaytext="About This Course" expand="false" type="slide" />
+            <slidelink slideid="_player.5u8xrQQn3aD.5a3E2dBeLdG" displaytext="About This Course" expand="false" type="slide" />
+            <slidelink slideid="_player.5u8xrQQn3aD.652xjXnjXnr" displaytext="About You" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.604piO8kOur" displaytext="Scientific vs Engineering Notation" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.6NXT9JepZT1" displaytext="Engineering Notation" expand="false" type="slide" />
             <slidelink slideid="_player.5u8xrQQn3aD.6XHxpKf0qZ2" displaytext="Engineering Notation Units" expand="false" type="slide" />
@@ -1316,13 +1318,16 @@
             <slidelink slideid="_player.6GzniEw0WOe.6ECf2rJRLyg" displaytext="Series Circuits" expand="false" type="slide" />
             <slidelink slideid="_player.6GzniEw0WOe.6R6eIIQCtOy" displaytext="Resistors in Series" expand="false" type="slide" />
             <slidelink slideid="_player.6GzniEw0WOe.5WamIbd41gW" displaytext="Series Circuits" expand="false" type="slide" />
+            <slidelink slideid="_player.6GzniEw0WOe.5frfA0JRgIW" displaytext="Parallel Circuits" expand="false" type="slide" />
             <slidelink slideid="_player.6GzniEw0WOe.5ojoMwKmfF2" displaytext="Practice Quiz Time" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6hRx0PQ1PSY" displaytext="Power" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6hRx0PQ1PSY.66TpJyZpRp8" displaytext="Power and Energy" expand="false" type="slide" />
-            <slidelink slideid="_player.6hRx0PQ1PSY.6Fj6et17ujv" displaytext="Power and Energy" expand="false" type="slide" />
+            <slidelink slideid="_player.6hRx0PQ1PSY.6Fj6et17ujv" displaytext="Power" expand="false" type="slide" />
+            <slidelink slideid="_player.6hRx0PQ1PSY.6QBDtIECjcm" displaytext="Power Calculations" expand="false" type="slide" />
+            <slidelink slideid="_player.6hRx0PQ1PSY.6FXSN0WC8RJ" displaytext="Power Calculations" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.65XebJUPeGj" displaytext="Schematic Capture" expand="true" type="slide">
@@ -1337,7 +1342,7 @@
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Orbitron' style='font-size: 11px;' size='11' color='#B4B4B4'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/Capture1.PNG" image="story_content/6pV5MTsKoi5.png" title="prefixes" />
+      <resource url="story_content/external_files/Capture1.PNG" image="story_content/5pUs4PVPVlJ.png" title="prefixes" />
     </resources>
   </resource_data>
   <transcript_data />
